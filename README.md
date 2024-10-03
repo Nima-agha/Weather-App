@@ -1,2 +1,2 @@
 # Demo
-[Weather-App](https://nima-agha.github.io/Weather-App/)
+click [Weather-App](https://nima-agha.github.io/Weather-App/) to see demo
